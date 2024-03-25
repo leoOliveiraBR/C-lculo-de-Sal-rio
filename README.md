@@ -16,7 +16,7 @@
 # ✅Descrisão 
    esse formulario formulário em php que permite calcular o salário de um vendedor, com base em suas metas semanais e mensais.
 # 📃 Introdução
-nesse código foram usados 4 tipos de linguagens:    
+![image info](img/video.gif)
 
 HTML: Estrutura da página e formulário   
 CSS: Estilização da página   
@@ -29,19 +29,29 @@ PHP: Cálculo do salário e exibição do resultado
    °Exibe o resultado do cálculo com o nome do vendedor e o salário final formatado em reais.
 
 ## codigos utilizados no projeto
+
+aqui está o codigo php, java script e ea estrutura basica do hmtl
 ![img info](img/pt1-php.png)
 
 ![img info](img/pt2-php.png)
 
+já aqui está todo o css da página
 ![img info](img/pt1-css.png)
+
 ![img info](img/pt2-css.png)
 
+essas linguagens servem como:
+
+HTML: Estrutura da página e formulário
+CSS: Estilização da página
+JavaScript: Formatação de moeda
+PHP: Cálculo do salário e exibição do resultado
 
 ## 📌 Tecnologias Utilizadas
    °HTML5    
    °CCS3   
    °PHP8.1   
-   °ECMAScript 2021   
+   °ECMAScript 2023   
 
 ## 🔎 Fontes consultadas
    [gov.br](https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/noticias/2023/12/salario-minimo-de-2024-tera-ganho-real-e-crescera-3pp-alem-dos-3-85-da-inflacao)
