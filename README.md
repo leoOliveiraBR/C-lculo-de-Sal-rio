@@ -2,7 +2,7 @@
 
 
 ## Iindice
-   - [Projeto - Loja de carros](#projeto---aprendendo-a-escrever-um-readme)  
+   - [Projeto - Loja de carros](#formul%C3%A1rio-de-c%C3%A1lculo-de-sal%C3%A1rio)  
    - [Descrição](#descris%C3%A3o)  
    - [Introdução](#introdu%C3%A7%C3%A3o)  
    - [Funcionalidades](#funcionalidades)  
@@ -14,20 +14,33 @@
 ![image info](img/image-capa.png)
 
 # ✅Descrisão 
-   
+   esse formulario formulário em php que permite calcular o salário de um vendedor, com base em suas metas semanais e mensais.
 # 📃 Introdução
+nesse código foram usados 4 tipos de linguagens:    
 
+HTML: Estrutura da página e formulário   
+CSS: Estilização da página   
+JavaScript: Formatação de moeda   
+PHP: Cálculo do salário e exibição do resultado   
    
 ## 🔧 Funcionalidades
-   
+   °Permite que o usuário digite seu nome e as metas semanais e mensais.   
+   °Calcula o salário final do vendedor com base nas metas e no salário mínimo.   
+   °Exibe o resultado do cálculo com o nome do vendedor e o salário final formatado em reais.
+
+## codigos utilizados no projeto
+![img info](img/codigo-php.png)
+
 
 ## 📌 Tecnologias Utilizadas
-   °HTML5  
-   °CCS3
-   °PHP8.1
-   °ECMAScript 2021
+   °HTML5    
+   °CCS3   
+   °PHP8.1   
+   °ECMAScript 2021   
 
 ## 🔎 Fontes consultadas
+   [gov.br](https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/noticias/2023/12/salario-minimo-de-2024-tera-ganho-real-e-crescera-3pp-alem-dos-3-85-da-inflacao)
+   [PHP](https://www.php.net/)  
    
 ## ✒️ Autores
 [Leonardo De Oliveira](https://github.com/leoOliveiraBR)  
