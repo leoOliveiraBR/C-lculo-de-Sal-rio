@@ -29,12 +29,12 @@ PHP: Cálculo do salário e exibição do resultado
    °Exibe o resultado do cálculo com o nome do vendedor e o salário final formatado em reais.
 
 ## codigos utilizados no projeto
-![img info](img/pt1.php.png)
+![img info](img/pt1-php.png)
 
-![img info](img/pt2.php.png)
+![img info](img/pt2-php.png)
 
-![img info](img/pt1.css.png)
-![img info](img/pt2.css.png)
+![img info](img/pt1-css.png)
+![img info](img/pt2-css.png)
 
 
 ## 📌 Tecnologias Utilizadas
