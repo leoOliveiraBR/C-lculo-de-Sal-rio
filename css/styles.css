@@ -1,0 +1,62 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url('capa2.jpg'); /* Substitua 'caminho/para/sua/imagem.jpg' pelo caminho real para sua imagem */
+    background-size: cover; /* Isso faz com que a imagem cubra todo o corpo (body) */
+    background-repeat: no-repeat; /* Isso impede que a imagem se repita */
+    background-position: center; /* Isso centraliza a imagem */
+}
+
+h2 {
+    text-align: center;
+}
+
+form {
+    width: 300px;
+    margin: 0 auto;
+    background-color: rgba(255, 255, 255, 0.8); /* Fundo branco com 80% de opacidade */
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+label {
+    font-weight: bold;
+}
+
+input[type="text"],
+input[type="number"] {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+button[type="submit"] {
+    width: 100%;
+    padding: 10px;
+    background-color: #747474;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+button[type="submit"]:hover {
+    background-color: #000000;
+}
+
+.resultado {
+    text-align: center;
+    width: 300px; 
+    margin: 0 auto; 
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 20px; 
+    border-radius: 8px; 
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+
+}
