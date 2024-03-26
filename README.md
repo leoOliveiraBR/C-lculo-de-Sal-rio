@@ -16,7 +16,7 @@
 # ✅Descrisão 
    esse formulario formulário em php que permite calcular o salário de um vendedor, com base em suas metas semanais e mensais.
 # 📃 Introdução
-   Este código é um formulário de cálculo de salário para vendedores. Ele permite que você calcule o salário final de um vendedor com b      ase nas metas semanais e mensais, bem como no salário mínimo.
+   Este código é um formulário de cálculo de salário para vendedores. Ele permite que você calcule o salário final de um vendedor com base nas metas semanais e mensais, bem como no salário mínimo.
    ![image info](img/video.gif)   
    
 ## 🔧 Funcionalidades
@@ -35,11 +35,11 @@
 
    ![img info](img/pt2-css.png)
 
-   essas linguagens servem como:
-   HTML: Estrutura da página e formulário
-   CSS: Estilização da página
-   JavaScript: Formatação de moeda
-   PHP: Cálculo do salário e exibição do resultado
+   essas linguagens servem como:   
+   HTML: Estrutura da página e formulário   
+   CSS: Estilização da página   
+   JavaScript: Formatação de moeda   
+   PHP: Cálculo do salário e exibição do resultado   
 
 ## 📌 Tecnologias Utilizadas
    °HTML5    
