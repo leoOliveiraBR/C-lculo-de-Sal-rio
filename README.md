@@ -35,7 +35,7 @@
 
    ![img info](img/pt2-css.png)
 
-   essas linguagens servem como:   
+   as linguagens utilizadas servem para:   
    HTML: Estrutura da página e formulário   
    CSS: Estilização da página   
    JavaScript: Formatação de moeda   
@@ -48,7 +48,7 @@
    °ECMAScript 2023   
 
 ## 🔎 Fontes consultadas
-   [gov.br](https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/noticias/2023/12/salario-minimo-de-2024-tera-ganho-real-e-crescera-3pp-alem-dos-3-85-da-inflacao)
+   [gov.br](https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/noticias/2023/12/salario-minimo-de-2024-tera-ganho-real-e-crescera-3pp-alem-dos-3-85-da-inflacao),
    [PHP](https://www.php.net/)  
    
 ## ✒️ Autores
