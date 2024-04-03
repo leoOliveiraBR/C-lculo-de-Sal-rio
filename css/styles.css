@@ -2,7 +2,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-image: url('capa2.jpg'); /* Substitua 'caminho/para/sua/imagem.jpg' pelo caminho real para sua imagem */
+    background-image: url('capa2.jpg'); 
     background-size: cover; /* Isso faz com que a imagem cubra todo o corpo (body) */
     background-repeat: no-repeat; /* Isso impede que a imagem se repita */
     background-position: center; /* Isso centraliza a imagem */
