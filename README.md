@@ -1,7 +1,7 @@
 # 🚀 sejam todos bem vindo ao meu repositorio 
 
 
-## Iindice
+## indice
    - [Formulário de Cálculo de Salário](#formul%C3%A1rio-de-c%C3%A1lculo-de-sal%C3%A1rio)  
    - [Descrição](#descris%C3%A3o)  
    - [Introdução](#introdu%C3%A7%C3%A3o)  
